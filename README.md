@@ -251,13 +251,13 @@ you've entered data for — no setup required.
 ## File Structure
 
 Summer_Budget.xlsm
-├── Dashboard          — live monthly summary
-├── Overview           — full season history
-├── Income             — income log
-├── Expenses           — expense log
-├── Categories         — budget categories and limits
-├── Bills              — recurring bill tracker
-└── Goals              — savings goal tracker
+├── Dashboard          → Live monthly summary with charts and budget status
+├── Overview           → Full season history across all months
+├── Income             → Log all money coming in
+├── Expenses           → Log every purchase or payment
+├── Categories         → Predefined spending groups with budget limits
+├── Bills              → Recurring bills with auto-calculated due dates
+└── Goals              → Savings targets with progress tracking
 
 ---
 
