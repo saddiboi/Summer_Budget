@@ -272,5 +272,5 @@ MIT License — free to use, modify, and distribute.
 
 ## Author
 
-Built by Sadnan Sadib Nahin
+Built by Sadnan Sadib Nahin.
 Made for students who want to stop guessing where their money went.
