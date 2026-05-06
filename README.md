@@ -250,6 +250,7 @@ you've entered data for — no setup required.
 
 ## File Structure
 
+```
 Summer_Budget.xlsm
 ├── Dashboard          → Live monthly summary with charts and budget status
 ├── Overview           → Full season history across all months
@@ -258,6 +259,8 @@ Summer_Budget.xlsm
 ├── Categories         → Predefined spending groups with budget limits
 ├── Bills              → Recurring bills with auto-calculated due dates
 └── Goals              → Savings targets with progress tracking
+```
+
 
 ---
 
