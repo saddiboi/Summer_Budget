@@ -120,7 +120,7 @@ you've entered data for — no setup required.
 
 ### Getting Started
 
-1. Download [Summer Budget](https://github.com/saddiboi/Summer_Budget/releases/download/v1.0.0/Summer_Budget.xlsm)
+1. Download [Summer_Budget.zip](https://github.com/saddiboi/Summer_Budget/releases/download/v1.0.0/Summer_Budget.zip)
 2. Open in Excel
 3. Click **Enable Content** when Excel prompts about macros
 4. The welcome screen appears — click **Yes** to continue
