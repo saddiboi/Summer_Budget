@@ -23,6 +23,20 @@ you've entered data for — no setup required.
 
 If Excel shows a yellow warning bar saying *"Microsoft has blocked macros from running because the source of this file is untrusted,"* don't worry — this happens to every macro-enabled file downloaded from the internet. Windows tags downloaded files with a "Mark of the Web" and Excel blocks their macros by default for security.
 
+To unblock the file:
+
+1. Close the file in Excel
+2. Find `Summer_Budget.xlsm` in File Explorer (usually your Downloads folder)
+3. Right-click the file and choose **Properties**
+4. At the bottom of the **General** tab, find the security notice
+5. Tick the **Unblock** checkbox
+6. Click **Apply**, then **OK**
+7. Reopen the file in Excel — macros will now work
+
+You only need to do this once. After unblocking, the file behaves like any other Excel workbook.
+
+> **Note for Mac users:** This block doesn't apply on macOS. Just open the file and click **Enable Macros** when prompted.
+
 ---
 
 ## Screenshots
@@ -137,20 +151,6 @@ If Excel shows a yellow warning bar saying *"Microsoft has blocked macros from r
 9. Go to the **Goals** sheet — set savings targets
 10. Click **Refresh Dashboard** to see updated totals and charts
 11. Click **View Overview** to see your full season history
-
-To unblock the file:
-
-1. Close the file in Excel
-2. Find `Summer_Budget.xlsm` in File Explorer (usually your Downloads folder)
-3. Right-click the file and choose **Properties**
-4. At the bottom of the **General** tab, find the security notice
-5. Tick the **Unblock** checkbox
-6. Click **Apply**, then **OK**
-7. Reopen the file in Excel — macros will now work
-
-You only need to do this once. After unblocking, the file behaves like any other Excel workbook.
-
-> **Note for Mac users:** This block doesn't apply on macOS. Just open the file and click **Enable Macros** when prompted.
 
 ### Sheets at a Glance
 
