@@ -19,6 +19,12 @@ you've entered data for — no setup required.
 
 ---
 
+### Macros Blocked? Unblock the File First
+
+If Excel shows a yellow warning bar saying *"Microsoft has blocked macros from running because the source of this file is untrusted,"* don't worry — this happens to every macro-enabled file downloaded from the internet. Windows tags downloaded files with a "Mark of the Web" and Excel blocks their macros by default for security.
+
+---
+
 ## Screenshots
 
 <img width="2559" height="1531" alt="image" src="https://github.com/user-attachments/assets/1d247d77-eee5-401f-93ea-8bc58bd10127" />
@@ -131,10 +137,6 @@ you've entered data for — no setup required.
 9. Go to the **Goals** sheet — set savings targets
 10. Click **Refresh Dashboard** to see updated totals and charts
 11. Click **View Overview** to see your full season history
-
-### Macros Blocked? Unblock the File First
-
-If Excel shows a yellow warning bar saying *"Microsoft has blocked macros from running because the source of this file is untrusted,"* don't worry — this happens to every macro-enabled file downloaded from the internet. Windows tags downloaded files with a "Mark of the Web" and Excel blocks their macros by default for security.
 
 To unblock the file:
 
